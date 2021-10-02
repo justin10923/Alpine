@@ -1,8 +1,10 @@
 # 3308Summer21_300_4
 
-# Access Now
-
 https://alpine-ltd.herokuapp.com/
+
+# Personal Contributions
+
+The majority of the contributions to this project are not mine. My personal contributions include HTML/CSS skeleton and styling, RESTFUL API's such as Google Javascript and Open Weather API, and welcome page.
 
 # Description
   Ride-sharing website that connects users with identical destinations in the Colorado area. The website allows users to browse information on various hiking landmarks and ski areas.  Information for hiking spots may include the length of the hike, terrain, level of difficulty, and altitude. Information for ski areas may include snow depth, snow type (packed powder, powder, etc.), and ticket costs.  
